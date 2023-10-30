@@ -1,0 +1,19 @@
+
+div[id^="change-form"] {
+    display: none;
+    visibility: hidden;
+}
+
+html {
+    background-image: url('/img/kozzi-open_old_book-2250x1688.webp');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.headers {
+    display: flex;
+    justify-content: space-around;
+}
+
